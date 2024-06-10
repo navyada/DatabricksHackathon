@@ -1,3 +1,4 @@
 streamlit
 flask
 python-dotenv
+streamlit_chat
